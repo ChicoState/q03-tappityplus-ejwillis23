@@ -8,6 +8,8 @@
 class tappity
 {
     private:
+        std::string phrase;
+        std::string uinput;
 
     public:
         //Constructor sets the reference phrase
